@@ -41,43 +41,43 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ### Dedicated Crypto Exchange & Trading Platforms
 
-- **[Bisq](https://github.com/bisq-network/bisq)**  
-  Decentralized peer-to-peer exchange with strong privacy and no KYC requirements.
-
-- **[Uniswap V4](https://github.com/Uniswap/v4-core)**  
+- **[Uniswap V4](https://github.com/Uniswap/v4-core)** <a href="https://github.com/Uniswap/v4-core/stargazers"><img src="https://img.shields.io/github/stars/Uniswap/v4-core?style=social&color=white" alt="Stars"></a>  
   Open-source core of the leading decentralized exchange protocol with hooks for customization.
 
-- **[PancakeSwap](https://github.com/pancakeswap/pancake-frontend)**  
-  Open-source DEX on BNB Chain with full code for forks and modifications.
+- **[SushiSwap](https://github.com/sushiswap/sushiswap)** <a href="https://github.com/sushiswap/sushiswap/stargazers"><img src="https://img.shields.io/github/stars/sushiswap/sushiswap?style=social&color=white" alt="Stars"></a>  
+  Community-driven open-source DEX fork with yield farming and staking features.
 
-- **[Raydium](https://github.com/raydium-io/raydium-sdk)**  
-  Open-source AMM and liquidity provider on Solana with trading tools.
+- **[Bisq](https://github.com/bisq-network/bisq)** <a href="https://github.com/bisq-network/bisq/stargazers"><img src="https://img.shields.io/github/stars/bisq-network/bisq?style=social&color=white" alt="Stars"></a>  
+  Decentralized peer-to-peer exchange with strong privacy and no KYC requirements.
 
-- **[Serum](https://github.com/project-serum/serum-dex)** (and forks)  
-  Open-source decentralized exchange protocol on Solana.
-
-- **[1inch](https://github.com/1inch)**  
-  Open-source DEX aggregator with smart routing and gas optimization.
-
-- **[0x Protocol](https://github.com/0xProject)**  
+- **[0x Protocol](https://github.com/0xProject/0x-monorepo)** <a href="https://github.com/0xProject/0x-monorepo/stargazers"><img src="https://img.shields.io/github/stars/0xProject/0x-monorepo?style=social&color=white" alt="Stars"></a>  
   Open-source infrastructure for decentralized exchange and liquidity aggregation.
 
-- **[Kyber Network](https://github.com/KyberNetwork)**  
-  Open-source liquidity protocol for decentralized trading.
-
-- **[Balancer](https://github.com/balancer-labs/balancer-v2-monorepo)**  
+- **[Balancer](https://github.com/balancer-labs/balancer-v2-monorepo)** <a href="https://github.com/balancer-labs/balancer-v2-monorepo/stargazers"><img src="https://img.shields.io/github/stars/balancer-labs/balancer-v2-monorepo?style=social&color=white" alt="Stars"></a>  
   Open-source automated portfolio manager and DEX with customizable pools.
 
-- **[SushiSwap](https://github.com/sushiswap/sushiswap)**  
-  Community-driven open-source DEX fork with yield farming and staking features.
+- **[1inch](https://github.com/1inch/1inch-v2-contracts)** <a href="https://github.com/1inch/1inch-v2-contracts/stargazers"><img src="https://img.shields.io/github/stars/1inch/1inch-v2-contracts?style=social&color=white" alt="Stars"></a>  
+  Open-source DEX aggregator with smart routing and gas optimization.
+
+- **[Kyber Network](https://github.com/KyberNetwork/smart-contracts)** <a href="https://github.com/KyberNetwork/smart-contracts/stargazers"><img src="https://img.shields.io/github/stars/KyberNetwork/smart-contracts?style=social&color=white" alt="Stars"></a>  
+  Open-source liquidity protocol for decentralized trading.
+
+- **[Serum](https://github.com/project-serum/serum-dex)** <a href="https://github.com/project-serum/serum-dex/stargazers"><img src="https://img.shields.io/github/stars/project-serum/serum-dex?style=social&color=white" alt="Stars"></a>  
+  Open-source decentralized exchange protocol on Solana.
+
+- **[PancakeSwap](https://github.com/pancakeswap/pancake-frontend)** <a href="https://github.com/pancakeswap/pancake-frontend/stargazers"><img src="https://img.shields.io/github/stars/pancakeswap/pancake-frontend?style=social&color=white" alt="Stars"></a>  
+  Open-source DEX on BNB Chain with full code for forks and modifications.
+
+- **[Raydium](https://github.com/raydium-io/raydium-sdk)** <a href="https://github.com/raydium-io/raydium-sdk/stargazers"><img src="https://img.shields.io/github/stars/raydium-io/raydium-sdk?style=social&color=white" alt="Stars"></a>  
+  Open-source AMM and liquidity provider on Solana with trading tools.
 
 ### Additional Strong Open-Source Options
 
-- **[LocalMonero / AgoraDesk](https://github.com/agoradesk)** — Open-source peer-to-peer trading platforms.
-- **[Hummingbot](https://github.com/hummingbot/hummingbot)** — Open-source market-making and trading bot framework.
-- **[Freqtrade](https://github.com/freqtrade/freqtrade)** — Open-source crypto trading bot with backtesting.
-- **[ccxt](https://github.com/ccxt/ccxt)** — Cryptocurrency exchange trading library supporting 100+ exchanges.
-- **[BTCPay Server](https://github.com/btcpayserver/btcpayserver)** — Open-source Bitcoin payment processor with self-hosted exchange features.
+- **[ccxt](https://github.com/ccxt/ccxt)** <a href="https://github.com/ccxt/ccxt/stargazers"><img src="https://img.shields.io/github/stars/ccxt/ccxt?style=social&color=white" alt="Stars"></a> — Cryptocurrency exchange trading library supporting 100+ exchanges.
+- **[Freqtrade](https://github.com/freqtrade/freqtrade)** <a href="https://github.com/freqtrade/freqtrade/stargazers"><img src="https://img.shields.io/github/stars/freqtrade/freqtrade?style=social&color=white" alt="Stars"></a> — Open-source crypto trading bot with backtesting.
+- **[BTCPay Server](https://github.com/btcpayserver/btcpayserver)** <a href="https://github.com/btcpayserver/btcpayserver/stargazers"><img src="https://img.shields.io/github/stars/btcpayserver/btcpayserver?style=social&color=white" alt="Stars"></a> — Open-source Bitcoin payment processor with self-hosted exchange features.
+- **[Hummingbot](https://github.com/hummingbot/hummingbot)** <a href="https://github.com/hummingbot/hummingbot/stargazers"><img src="https://img.shields.io/github/stars/hummingbot/hummingbot?style=social&color=white" alt="Stars"></a> — Open-source market-making and trading bot framework.
+- **[LocalMonero / AgoraDesk](https://github.com/agoradesk/agoradesk-app-foss)** <a href="https://github.com/agoradesk/agoradesk-app-foss/stargazers"><img src="https://img.shields.io/github/stars/agoradesk/agoradesk-app-foss?style=social&color=white" alt="Stars"></a> — Open-source peer-to-peer trading platforms.
 - **[Many Uniswap V2/V3 forks** and custom DEX implementations.
 
 **Frameworks for building custom exchanges**: Combine **Uniswap V4**, **ccxt**, **Hummingbot**, and **Bisq** codebases to create fully open and decentralized trading platforms.
