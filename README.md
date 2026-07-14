@@ -23,15 +23,15 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ### Core Platforms (Crypto Exchanges)
 
-| Platform | Description | Pricing / Fees | Free Tier Limit |
-|----------|-------------|----------------|-----------------|
-| **[Coinbase](https://www.coinbase.com/)** | Leading regulated exchange with user-friendly interface and strong educational resources. | Variable fees; Coinbase One ($29.99/mo) | No monthly fee; pay per trade |
-| **[Kraken](https://www.kraken.com/)** | Secure and feature-rich exchange known for advanced trading tools and staking. | Maker/Taker fees (up to 0.26%) | No monthly fee; pay per trade |
-| **[Binance](https://www.binance.com/)** | Largest global exchange by volume with extensive trading pairs and ecosystem services. | 0.1% spot trading fee | No monthly fee; pay per trade |
-| **[Gemini](https://www.gemini.com/)** | Regulated exchange with strong focus on security and compliance. | Variable/ActiveTrader fees | No monthly fee; pay per trade |
-| **[Robinhood](https://robinhood.com/)** | Commission-free trading platform with crypto and stock integration. | $0 commission; Robinhood Gold ($5/mo) | Free to trade; no limit on basic |
-| **[BitMart](https://www.bitmart.com/)** | Global exchange with wide variety of altcoins and futures trading. | Standard fee ~0.25% maker/taker | No monthly fee; pay per trade |
-| **[Uniswap](https://uniswap.org/)** | Leading decentralized exchange for token swaps on Ethereum and other chains. | 0.1% - 1% liquidity provider fee | No monthly fee; network gas applies |
+| Platform | Description | Pricing / Fees | Free Tier Limit | Company Size (Valuation) |
+|----------|-------------|----------------|-----------------|--------------------------|
+| **[Binance](https://www.binance.com/)** | Largest global exchange by volume with extensive trading pairs and ecosystem services. | 0.1% spot trading fee | No monthly fee; pay per trade | ~$60B+ |
+| **[Coinbase](https://www.coinbase.com/)** | Leading regulated exchange with user-friendly interface and strong educational resources. | Variable fees; Coinbase One ($29.99/mo) | No monthly fee; pay per trade | ~$50B+ |
+| **[Robinhood](https://robinhood.com/)** | Commission-free trading platform with crypto and stock integration. | $0 commission; Robinhood Gold ($5/mo) | Free to trade; no limit on basic | ~$15B+ |
+| **[Kraken](https://www.kraken.com/)** | Secure and feature-rich exchange known for advanced trading tools and staking. | Maker/Taker fees (up to 0.26%) | No monthly fee; pay per trade | ~$10B+ |
+| **[Gemini](https://www.gemini.com/)** | Regulated exchange with strong focus on security and compliance. | Variable/ActiveTrader fees | No monthly fee; pay per trade | ~$7B+ |
+| **[Uniswap](https://uniswap.org/)** | Leading decentralized exchange for token swaps on Ethereum and other chains. | 0.1% - 1% liquidity provider fee | No monthly fee; network gas applies | ~$5B+ |
+| **[BitMart](https://www.bitmart.com/)** | Global exchange with wide variety of altcoins and futures trading. | Standard fee ~0.25% maker/taker | No monthly fee; pay per trade | ~$300M+ |
 
 ### Advanced & Specialized Platforms
 
