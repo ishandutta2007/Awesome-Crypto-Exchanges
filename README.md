@@ -17,15 +17,15 @@ This repository tracks notable **SaaS platforms** and **open-source projects** f
 
 Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
 
-## Table of Contents
+## 📚 Table of Contents
 - [SaaS Products](#saas-products)
 - [Open-Source GitHub Projects](#open-source-github-projects)
 - [How to Contribute](#how-to-contribute)
 - [Disclaimer](#disclaimer)
 
-## SaaS Products
+## ☁️ SaaS Products
 
-### Core Platforms (Crypto Exchanges)
+### 🏛️ Core Platforms (Crypto Exchanges)
 
 | Platform | Description | Pricing / Fees | Free Tier Limit | Company Size (Valuation) |
 |----------|-------------|----------------|-----------------|--------------------------|
@@ -37,13 +37,13 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 | **[Uniswap](https://uniswap.org/)** | Leading decentralized exchange for token swaps on Ethereum and other chains. | 0.1% - 1% liquidity provider fee | No monthly fee; network gas applies | ~$5B+ |
 | **[BitMart](https://www.bitmart.com/)** | Global exchange with wide variety of altcoins and futures trading. | Standard fee ~0.25% maker/taker | No monthly fee; pay per trade | ~$300M+ |
 
-### Advanced & Specialized Platforms
+### 🚀 Advanced & Specialized Platforms
 
 **Other notable mentions**: Bybit, KuCoin, and various DEX aggregators.
 
-## Open-Source GitHub Projects
+## 💻 Open-Source GitHub Projects
 
-### Dedicated Crypto Exchange & Trading Platforms
+### 🔄 Dedicated Crypto Exchange & Trading Platforms
 
 - **[Uniswap V4](https://github.com/Uniswap/v4-core)** <a href="https://github.com/Uniswap/v4-core/stargazers"><img src="https://img.shields.io/github/stars/Uniswap/v4-core?style=social&color=white" alt="Stars"></a>  
   Open-source core of the leading decentralized exchange protocol with hooks for customization.
@@ -75,7 +75,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - **[Raydium](https://github.com/raydium-io/raydium-sdk)** <a href="https://github.com/raydium-io/raydium-sdk/stargazers"><img src="https://img.shields.io/github/stars/raydium-io/raydium-sdk?style=social&color=white" alt="Stars"></a>  
   Open-source AMM and liquidity provider on Solana with trading tools.
 
-### Additional Strong Open-Source Options
+### 🛠️ Additional Strong Open-Source Options
 
 - **[ccxt](https://github.com/ccxt/ccxt)** <a href="https://github.com/ccxt/ccxt/stargazers"><img src="https://img.shields.io/github/stars/ccxt/ccxt?style=social&color=white" alt="Stars"></a> — Cryptocurrency exchange trading library supporting 100+ exchanges.
 - **[Freqtrade](https://github.com/freqtrade/freqtrade)** <a href="https://github.com/freqtrade/freqtrade/stargazers"><img src="https://img.shields.io/github/stars/freqtrade/freqtrade?style=social&color=white" alt="Stars"></a> — Open-source crypto trading bot with backtesting.
@@ -86,7 +86,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 **Frameworks for building custom exchanges**: Combine **Uniswap V4**, **ccxt**, **Hummingbot**, and **Bisq** codebases to create fully open and decentralized trading platforms.
 
-## How to Contribute
+## 🤝 How to Contribute
 
 1. Fork the repo.
 2. Add/edit entries in `README.md` (follow existing format).
@@ -95,7 +95,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 Star the repo if you find it useful!
 
-## Disclaimer
+## ⚠️ Disclaimer
 
 - This is a **community-curated** list — not exhaustive and not an endorsement.
 - Cryptocurrency trading involves significant risk. Always do your own research and never invest more than you can afford to lose.
